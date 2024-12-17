@@ -6,9 +6,11 @@
 
 <br>
 
-![license](https://img.shields.io/badge/license-MIT-green)  
-![release](https://img.shields.io/badge/release-v1.0.0-blue)  
-![downloads](https://img.shields.io/badge/downloads-1k-brightgreen)
+[![LICENSE](https://img.shields.io/github/license/LayFz/WeChat_Article_Crawler)](LICENSE)
+[![Release](https://img.shields.io/github/release/LayFz/WeChat_Article_Crawler.svg)](https://github.com/LayFz/WeChat_Article_Crawler/releases)
+[![Download](https://img.shields.io/github/downloads/LayFz/WeChat_Article_Crawler/total)](https://github.com/LayFz/WeChat_Article_Crawler/releases)
+[![STARS](https://img.shields.io/github/stars/LayFz/WeChat_Article_Crawler)](https://github.com/LayFz/WeChat_Article_Crawler/)
+
 
 [简体中文](README.md) | [English](README-en.md)
 
