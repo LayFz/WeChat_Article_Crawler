@@ -69,6 +69,11 @@
 #### 1. 抓包工具下载  
 下载 [Charles](https://www.charlesproxy.com/latest-release/download.do)
 
+破解 [Charles](https://www.zzzmode.com/mytools/charles/)
+
+安装证书以及出现unknow问题:
+https://blog.csdn.net/m0_63892927/article/details/136680867
+
 关于用法这里不过多赘述，直接引用这篇教程:
 https://blog.csdn.net/m0_72210949/article/details/131146091
 

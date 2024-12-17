@@ -71,6 +71,11 @@
 #### 1. Download Packet Capture Tool  
 Download [Charles](https://www.charlesproxy.com/latest-release/download.do)
 
+Cracking [Charles](https://www.zzzmode.com/mytools/charles/)
+
+Install the certificate and unknown problems:
+https://blog.csdn.net/m0_63892927/article/details/136680867
+
 #### 2. Open Packet Capture Tool  
 
 ##### Process  
